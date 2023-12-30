@@ -1,2 +1,34 @@
-# converter-tools
-A collection of tools that help you easily convert data.
+# Converter Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>A collection of tools that help you easily convert data.
+
+## Contents
+
+* [Decimal to Binary Tool](https://tools.waytolearnx.com/dec-to-bin)
+* [Binary to Decimal Tool](https://tools.waytolearnx.com/bin-to-dec)
+* [Decimal to Hexadecimal Tool](https://tools.waytolearnx.com/dec-to-hex)
+* [Hexadecimal to Decimal Tool](https://tools.waytolearnx.com/hex-to-dec)
+* [Decimal to Octal Tool](https://tools.waytolearnx.com/dec-to-oct)
+* [Octal to Decimal Tool](https://tools.waytolearnx.com/oct-to-dec)
+* [Binary to Hexadecimal Tool](https://tools.waytolearnx.com/bin-to-hex)
+* [Binary to Octal Tool](https://tools.waytolearnx.com/bin-to-oct)
+* [Octal to Binary Tool](https://tools.waytolearnx.com/oct-to-bin)
+* [Octal to Hexadecimal Tool](https://tools.waytolearnx.com/oct-to-hex)
+* [Hexadecimal to Octal Tool](https://tools.waytolearnx.com/hex-to-oct)
+* [Hexadecimal to Binary Tool](https://tools.waytolearnx.com/hex-to-bin)
+* [Base64 encoder Tool](https://tools.waytolearnx.com/base64-encoder)
+* [Base64 decoder Tool](https://tools.waytolearnx.com/base64-decoder)
+* [Base64 to Image Tool](https://tools.waytolearnx.com/base64-to-image)
+* [Image to Base64 Tool](https://tools.waytolearnx.com/image-to-base64)
+* [Image to Data URI Tool](https://tools.waytolearnx.com/image-to-datauri)
+* [Data URI to Image Tool](https://tools.waytolearnx.com/datauri-to-image)
+* [URL encoder Tool](https://tools.waytolearnx.com/url-encoder)
+* [URL decoder Tool](https://tools.waytolearnx.com/url-decoder)
+* [Color converter Tool](https://tools.waytolearnx.com/color-converter)
+* [Convert Text to Binary Tool](https://tools.waytolearnx.com/binary-converter)
+* [Convert Text to Hexadecimal Tool](https://tools.waytolearnx.com/hex-converter)
+* [ASCII converter Tool](https://tools.waytolearnx.com/ascii-converter)
+* [Convert Text to Decimal Tool](https://tools.waytolearnx.com/decimal-converter)
+* [Convert Text to Octal Tool](https://tools.waytolearnx.com/octal-converter)
+* [Morse converter Tool](https://tools.waytolearnx.com/morse-converter)
+* [Number to words converter Tool](https://tools.waytolearnx.com/number-to-words-converter)
